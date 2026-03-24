@@ -1,0 +1,11 @@
+id,text,predicted_category,predicted_priority
+1,percorso museo pulire il percorso ,Tecnico,Bassa
+2,prenotazione per il museo sacro e profano si richiede si richiede prenotazione per il museo sacro e profano in oggetto per il 14/03/2026. grazie,Commerciale,Media
+3,accoglienza pulizia urgente in prossimità della saletta. grazie,Tecnico,Media
+4,intercinta verifica plafoniera via di fuga penzolante fronte 1 braccio,Tecnico,Alta
+5,modifica fattura si richiede modifica fattura per importo errato,Amministrativo,Alta
+6,prenotazione visita pavrei bisogno di prenotare il ricovero antiaereo per aprile per 40 visitatori,Commerciale,Bassa
+7,modifica intestazione della fattura  richiedo la modifica dell’intestazione della fattura perché deve essere intestata all’ente,Amministrativo,Bassa
+8,rimborso pagamento parziale si richiede rimborso parziale della fattura emessa di 2 biglietti interi,Amministrativo,Media
+9,prentoazione per il museo  si richiede si richiede prenotazione per il museo in oggetto per il 14/03/2026. graize,Commerciale,Media
+10,percorso museo si segnala che il percorso museale ha bisogno di una pulita,Tecnico,Bassa
