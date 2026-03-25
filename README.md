@@ -2,6 +2,8 @@
 
 ## pw18-ticketing
 
+Elaborato svolto da Simona Oliveto.
+
 ### Prototipo1
 
 Contiene il codice relativo alla Fase 1 del PW.
